@@ -159,7 +159,7 @@ https://streaming.indihometv.com/atm/DASH/balitv/manifest.mpd
 https://cdnjkt4.transvision.co.id:1004/live/master/2/4028c68572841ba301729cd58bce3c14/manifest.mpd
 
 #EXTINF:0 tvg-id="Daai TV" tvg-name="Daai TV" group-title="Lokal" tvg-chno="41" tvg-logo="http://www.dens.tv/images/channel-logo/23.jpg",DAAI TV
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/chunklist_b2592000.m3u8
+https://pull.daaiplus.com/live-DAAITV/livestream-DAAITV.m3u8
 
 #EXTINF:0 tvg-id="Indonesiana TV" tvg-name="Indonesiana TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI4MneSVgEtCTr1bTcY2db9hW6VFIv8XOoZg&usqp=CAU" group-title="Lokal" tvg-chno="42",Indonesiana TV
 https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
@@ -418,10 +418,10 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=bf305592e53d42a1b7dc876af9914a4e:335c297e482fef1cc2dfcd73b93b3672
 https://atemecdnbalancer-voe.sysln.id/live/eds/StingrayNowHD/mpd/StingrayNowHD.mpd
 
-#EXTINF:-1, tvg-id="MTV LIVE - [Channel 148].id" tvg-name="MTV LIVE - [Channel 148].id" group-title="Premium IH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/220px-MTV_Live_2021_logo.svg.png" tvg-chno="162",MTV Live Indihome
+#EXTINF:-1, tvg-id="MTV LIVE - [Channel 148].id" tvg-name="MTV LIVE - [Channel 148].id" group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/220px-MTV_Live_2021_logo.svg.png" tvg-chno="162",MTV Live Indihome
 https://streaming.indihometv.com/atm/DASH//MTV_LIVE/manifest.mpd
 
-#EXTINF:-1, tvg-id="Prambors" tvg-name="Prambors" group-title="Premium IH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLENE1qwe-RvEHmH_m6e9fg8ZkoNGHOPyoYA&s" tvg-chno="162",Prambors
+#EXTINF:-1, tvg-id="Prambors" tvg-name="Prambors" group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLENE1qwe-RvEHmH_m6e9fg8ZkoNGHOPyoYA&s" tvg-chno="162",Prambors
 https://streaming.indihometv.com/atm/DASH/PRAMBORS_TV/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -520,7 +520,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1, tvg-id="Zee Bioskop - [Channel 23].id" tvg-name="Zee Bioskop - [Channel 23].id" group-title="India" tvg-logo="https://i.imgur.com/Xl7MJnd.png" tvg-chno="218",Zee Bioskop
+#EXTINF:-1, tvg-id="Zee Bioskop - [Channel 23].id" tvg-name="Zee Bioskop - [Channel 23].id" group-title="Movies" tvg-logo="https://i.imgur.com/Xl7MJnd.png" tvg-chno="218",Zee Bioskop
 https://melon-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 #EXTINF:-1 tvg-id="SPOTV" tvg-name="SPOTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/SPO_TV_logo.png" group-title="Sports" tvg-chno="300",SPOTV
